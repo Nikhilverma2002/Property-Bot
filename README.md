@@ -20,7 +20,7 @@ Property Bot is a WhatsApp chatbot designed to assist users in finding property-
 - **Geolocation**: To determine user location and provide location-based results.
 - **Database**: (MongoDB)To store and retrieve property information.
 - **Gupshup**: It is used as webhook holder for running our chatbot 24/7.
-
+  
 ---
 
 ## How It Works
@@ -39,7 +39,7 @@ Property Bot is a WhatsApp chatbot designed to assist users in finding property-
 
 API_KEY = "GUPSHUP_API_KEY"
 API_URL = "GUPSHUP_API_URL"
-PHONE = "+917084570845"
+PHONE = "+91708XXXXXXX" (Your Whatsapp Business Phone Number - added in gupshup)
 
 ---
 
