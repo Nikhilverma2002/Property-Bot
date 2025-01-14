@@ -1,6 +1,6 @@
 node_modules
 db.js
 vercel.json
-config.js
+.env
 package-lock.json
 package.json
